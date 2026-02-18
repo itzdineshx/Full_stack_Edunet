@@ -27,13 +27,24 @@ Header:
 
 Types of Tags;
 1. Tags in Head:
-- Title - It defines the Web page Title
-- Meta - It Describes about the web page
-- Style -  
-- Link
-- Script
+- <Title> - It defines the Web page Title
+- <Meta> - It Describes about the web page
+- <Style> -  
+- <Link>
+- <Script>
 
 2. Body Tags:
 1. Heading Tag <h></h>:
 - It makes Defines the hiereachy
 - It starts from <h1> to <h6>
+2. Paragraph Tag:
+- It make defines the content
+- It has the syntax of <p>content</p>
+
+3. Formatting Tags:
+- <Bold> - Makes Text Bold
+- <Strong> - IT makes the text Strong
+- <i> - Makes the text Italized
+- <u> - It makes the underline below the text
+- <del> - It strikesthrough the Text
+- 
