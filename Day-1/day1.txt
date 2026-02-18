@@ -1,0 +1,39 @@
+Learnings of Day 1
+what is HTML:
+- HTML is a Hyper Text Markup Language
+- It gives the structure to the web page
+- It has the content of Head and Body
+
+Tags:
+- It makes defines the content
+- It has the starting and ending Tags
+- but some tags are Self-Closing Tags
+<tag> - starting tag
+</tag> - Ending Tage
+<tag>Content</tag> - HTML Element
+
+Basic Tags:
+| Tag               | Purpose                      |
+| ----------------- | ---------------------------- |
+| `<!DOCTYPE html>` | Tells browser this is HTML5  |
+| `<html>`          | Root of the page             |
+| `<head>`          | Metadata (title, links, SEO) |
+| `<title>`         | Text shown on browser tab    |
+| `<body>`          | Visible content              |
+
+Header:
+- It makes defines about the web page
+- It tells Everything  
+
+Types of Tags;
+1. Tags in Head:
+- Title - It defines the Web page Title
+- Meta - It Describes about the web page
+- Style -  
+- Link
+- Script
+
+2. Body Tags:
+1. Heading Tag <h></h>:
+- It makes Defines the hiereachy
+- It starts from <h1> to <h6>
