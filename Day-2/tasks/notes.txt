@@ -1,0 +1,83 @@
+Links:
+- Links are used to navigate from one page to another
+- Created Using anchor <a> tag
+
+<a href="page.html">Click Here</a>
+
+Attributes:
+
+* href → destination URL or file
+* target="_blank" → opens link in new tab
+
+Example:
+<a href="https://www.google.com" target="_blank">Google</a>
+
+
+Images:
+- used to display Images on a Webpage
+- It is a Self-Closing Tag
+
+Example:
+<img src="image.png" alt="Image description">
+
+Attributes:
+
+* src → image path
+* alt → alternative text (SEO & accessibility)
+* width, height → image size
+
+Example:
+<img src="img/logo.png" alt="College Logo" width="100" height="100">
+
+Lists:
+- Lists are used to group related items.
+- Types: Ordered, Unordered
+
+1. Unordered List (<ul>)
+- Displays items with bullets
+
+Syntax:
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+</ul>
+
+2. Ordered List (<ol>)
+- Displays items with numbers
+
+Syntax:
+<ol>
+    <li>Step One</li>
+    <li>Step Two</li>
+    <li>Step Three</li>
+</ol>
+
+3. Description List (<dl>)
+- Used for terms and descriptions
+
+Syntax:
+<dl>
+    <dt>HTML</dt>
+    <dd>HyperText Markup Language</dd>
+
+    <dt>CSS</dt>
+    <dd>Cascading Style Sheets</dd>
+</dl>
+
+Block vs Inline Elements :
+1. Block Elements
+
+1. Take full width
+2. Start on a new line
+
+Examples:
+<h1>, <p>, <div>, <ul>, <ol>
+
+2. Inline Elements
+
+- Take only required width
+- Do not start on a new line
+
+Examples:
+<a>, <img>, <span>, <strong>
