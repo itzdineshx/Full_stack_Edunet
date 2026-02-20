@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>css & Selectors</title>
+
+    <!-- External CSS -->
+    <link rel="stylesheet" href="styles.css">
+
+    <style>
+        h1{
+            color: rgb(240, 51, 51);
+        }
+
+        .internal-css{
+            color: green;
+        }
+
+        #internalid{
+            color: blueviolet;
+        }
+
+        h2, h3{
+            color: rgb(240, 51, 51);
+        }
+
+        * {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #000000;
+        }
+
+        p {
+            color: rgb(36, 201, 165);
+        }
+
+    </style>
+</head>
+<body>
+    <h1>css</h1>
+    <P>Inline CSS</P>
+    <p style="color:blue;">This is an example of inline CSS.</p>
+
+    <P>Internal CSS</P>
+    <p class="internal-css">Internal CSS Class Selector</p>
+    <p id="internalid">Internal CSS ID Selector</p>
+    <h3>This is Done by Group Selector Internal</h3>
+
+    <p>External CSS</p>
+    <h5 class="eh5">This is an example of external CSS.</h5>
+</body>
+</html>

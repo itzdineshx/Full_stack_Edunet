@@ -1,0 +1,63 @@
+CSS - Cascading Style Sheet
+- It gives the style to the Webpage
+- It is used to style HTML elements
+- It makes the page more Attractive and Usable
+
+syntax:
+selector {
+    property: value;
+}
+
+Example:
+p {
+    color: blue;
+    font-size: 16px;
+}
+
+Types: Inline, Internal, External
+1. Inline CSS:
+- Written Inside an HTML Tag
+- It is the Highest Priority
+
+Example:
+<p style="color:red;">Hello World</p>
+
+2. Internal CSS:
+- Written Inside the HTML File
+- It make uses the <style> tag in <head>
+
+Example:
+<style>
+    p {
+        color: green;
+    }
+</style>
+
+3. External CSS:
+- Written in a separate .css file
+- It is the Less Priority
+- We want to make it link using the <link> tag
+
+Example:
+HTML:
+// main.html
+<link rel="stylesheet" href="style.css">
+
+CSS:
+/* style.css */
+p {
+    color: purple;
+}
+
+CSS Selectors
+
+* - Universal Selector
+tag - Selects HTML Tag
+.class - Select class
+#id - Select Id 
+
+Example:
+* {margin: 0;}
+p {color: White;}
+.title {font-size: 28px;}
+#main {background-color: blue;}
