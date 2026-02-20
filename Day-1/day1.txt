@@ -29,9 +29,9 @@ Types of Tags;
 1. Tags in Head:
 - <Title> - It defines the Web page Title
 - <Meta> - It Describes about the web page
-- <Style> -  
-- <Link>
-- <Script>
+- <Style> - It makes internal CSS
+- <Link> - It Links with the 
+- <Script> - 
 
 2. Body Tags:
 1. Heading Tag <h></h>:
@@ -47,4 +47,3 @@ Types of Tags;
 - <i> - Makes the text Italized
 - <u> - It makes the underline below the text
 - <del> - It strikesthrough the Text
-- 
