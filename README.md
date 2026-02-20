@@ -54,7 +54,7 @@ https://itzdineshx.github.io/Full_stack_Edunet/Day-2/list.html
 
 ---
 
-#### ✅ Task 7: College Website (DMICE)  
+#### ✅ Task 6: College Website (DMICE)  
 Built a multi-page college website using semantic HTML structure.
 
 🔗 Live Demo:  
@@ -64,7 +64,7 @@ https://itzdineshx.github.io/Full_stack_Edunet/Day-2/tasks/college-web/main.html
 
 ### 🟢 Day 3 – CSS Fundamentals
 
-#### ✅ Task 8: CSS & Selectors  
+#### ✅ Task 7: CSS & Selectors  
 Learned and implemented:
 - Inline CSS
 - Internal CSS
